@@ -3,10 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+ jason taylor 
 
 # THANKS
-
     <name>
 
 # TECHNOLOGY COLOPHON
