@@ -13,3 +13,5 @@ This is ready for deployemt
 This sis the introudction section to show how things work in git and gti hub
 
 ##How to contribute
+###Copyright section
+Copy right 2014 noti
